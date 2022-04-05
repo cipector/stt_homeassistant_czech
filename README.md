@@ -13,6 +13,7 @@ příklad : "Rožni světlo v koupelně"
 https://dataladder.com/fuzzy-matching-101/
 
 vycházel jsem z tohodle návodu: https://www.techwithtim.net/tutorials/voice-assistant/
+
 a pro zjednodušení práce s api jsem použil ha_skill od mycroftu : https://github.com/MycroftAI/skill-homeassistant/blob/20.08/ha_client.py
 
 ## Home Assistant 
