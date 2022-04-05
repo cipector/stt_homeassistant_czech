@@ -6,7 +6,7 @@ zatím jsem řešil pouze ON/OFF switche podle Vámi zadaných frází.
 příklad : "Rožni světlo v koupelně"
 
 a takto vypadí mé entity světel
-<img align="right" src="https://github.com/cipector/stt_homeassistant_czech//blob/master/svetla.png?raw=true">
+<img align="right" src="https://github.com/cipector/stt_homeassistant_czech//blob/master/svetla.PNG?raw=true">
 
 
 mycroft skill použiva fuzzy matching
